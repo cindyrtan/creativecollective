@@ -22,7 +22,7 @@ header video{
 }
 h1#text{
 	position: relative;
-	color: #fff;
+	color: #000;
 	font-size: 5em;
 	margin-top: 150px;
 	z-index: 1;
